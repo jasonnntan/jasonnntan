@@ -27,7 +27,6 @@ Final-year **Bachelor of Software Engineering (Hons)** student focused on buildi
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **ScanDine (DineFlow)** | Full-stack dine-in QR ordering platform with table session QR codes, SPA-style staff order queue, daily order numbering, dynamic SST/Service Charge engine, and RBAC. | `Laravel 12` `PHP 8.2` `Tailwind CSS` `MySQL` `Vanilla JS` | [Source Code](https://github.com/jasonnntan/ScanDine) |
-| **EventHub** | Self-service event registration and scheduling web application connecting frontend user workflows with a relational backend database. | `PHP` `Laravel` `MySQL` `Tailwind CSS` | [Repositories](https://github.com/jasonnntan?tab=repositories) |
 
 ---
 
